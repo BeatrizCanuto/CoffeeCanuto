@@ -13,7 +13,7 @@
 
 #menu li a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(139, 78, 7);
     font-size: 30px;
 }
 
@@ -24,7 +24,7 @@
 .rodape {
     font-family: courier;
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: rgb(139, 78, 7);
     padding-top: 450px;
 }
 .sobre {
@@ -39,7 +39,7 @@
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size:50px;
-    color: rgb(255, 248, 240);
+    color: rgb(139, 78, 7);
 }
 
 .texto {
@@ -52,5 +52,8 @@
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: x-large;
-    color: rgb(255, 255, 255);
+    color: rgb(5, 5, 5);
+}
+.mapa {
+    text-align: center;
 }
