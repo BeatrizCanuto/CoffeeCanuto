@@ -1,0 +1,33 @@
+        .carousel-item {
+            height: 100vh;
+            min-height: 350px;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        
+        #rodape :link {
+            padding-top: 30px;
+            font-size: 20px;
+        }
+        
+        #form {
+            background-color: black;
+        }
+        
+        body {
+            min-height: 100vh;
+        }
+        
+        #grid {
+            padding-bottom: 100px;
+        }
+        
+        #titulo {
+            padding-top: 50px;
+            text-align: center;
+        }
+        
+        #rodapeCard {
+            padding-bottom: 50px;
+        }
